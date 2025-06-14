@@ -19,7 +19,7 @@ beforeAll(async () => {
 
 }, 3000);
 
-test("edit movie", async () => {
+test("delete movie", async () => {
     await loginPage.provideEmail();
     await loginPage.clickOnLoginButton();
     await homePage.deleteMovie();
