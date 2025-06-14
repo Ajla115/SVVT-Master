@@ -1,0 +1,36 @@
+
+{
+    "url": {
+        "home_page": "https://movie-watchlist-fe-live.onrender.com/"
+    },
+
+    "data":{
+        "movie_title": "Interstellar",
+        "description": "A science fiction film about space exploration.",
+        "new_category": "To watch with friends at home"
+       
+    },
+
+    "credentials": {
+        "email": "korman.ajla115@gmail.com"
+       
+    },
+
+    "verification_message": {
+        "registration_message": "WELCOME TO THE PUMA FAM",
+        "login_message": "My Account",
+        "favorites": "Favourites",
+        "return_policy" : "Returns",
+        "added_to_cart" : "1 item(s) added to your cart!",
+        "confirm_successful_removal" : "CART IS EMPTY",
+        "search_complete" : "Pink female running shoes",
+        "successful_filtering" : "Price: 120 € - 200 €",
+        "successful_size_filtering" : "Size: 38",
+        "successful_colour_filtering" : "Colour: Black",
+        "added_to_favorites" : "Added to Favourites",
+        "empty_favorites_list" : "Your Favourites list is Empty",
+        "verify_order" : "CHECKOUT",
+        "verify_size_guide" : "International Size Conversions"
+
+    }
+}
